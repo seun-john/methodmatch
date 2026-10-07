@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="MethodMatch logo" width="420">
+</p>
+
 # MethodMatch
 
 Check that a study hangs together: every objective has a question, every question has variables, a method, an analysis and findings, and nothing is left dangling.
